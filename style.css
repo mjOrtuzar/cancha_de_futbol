@@ -1,0 +1,146 @@
+.fondo_cancha{
+	width: 900px;
+	height: 450px;
+	position: fixed;
+	border: 4px solid #000;
+	margin: 1px;
+     
+}
+
+.pasto_1{
+	width: 900px;
+	height: 450px;
+	background-color: #4B8A08;
+	position: relative;
+	
+}
+
+.franja_blanca{
+	background-color: white;
+	width: 870px;
+	height: 420px;
+	position: fixed;
+	top: 27px;
+	margin-left: 15px;
+}
+
+
+.pasto_2{
+	background-color: #4B8A08;
+	width: 866.2px;
+	height: 415.2px;
+	position: fixed;
+	top: 29.4px;
+	margin-left: 17px;
+}
+
+
+
+
+.arco_blanco1{
+	background-color: white;
+	width: 100px;
+	height: 150px;
+	position: fixed;
+	top: 159px;
+	left: 28px;
+}
+
+.arco_blanco2{
+	background-color: white;
+	width: 100px;
+	height: 150px;
+	position: fixed;
+	top: 159px;
+	left: 798px;
+}
+
+.arco_verde1{
+	background-color: #4B8A08;
+	width: 90px;
+	height: 130px;
+	position: fixed;
+	top: 168px;
+	left: 29.6px;
+
+}
+
+.arco_verde2{
+	background-color:#4B8A08;
+	width: 90px;
+	height: 130px;
+	position: fixed;
+	top: 168px;
+	left: 806px;
+
+}
+
+.centro_blanco1{
+     width: 200px;
+     height: 200px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: white;
+     position: fixed;
+     top: 120px;
+     left: 360px;
+}
+
+.centro_verde1{
+     width: 187px;
+     height: 187px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #4B8A08;
+     position: fixed;
+     top: 127px;
+     left: 366.8px;
+     
+}
+
+.jugador1{
+
+	width: 20px;
+     height: 20px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: white;
+     position: relative;
+     top:-390px;
+     left: 460px;
+     box-shadow: 2px 2px 2px black;
+
+}
+
+.jugador2{ 	
+	width: 20px;
+     height: 20px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: white;
+     position: relative;
+     top:-338px;
+     left: 90px;
+     box-shadow: 2px 2px 2px black;
+
+
+ }
+
+.jugador3{
+	width: 20px;
+     height: 20px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: white;
+     position: relative;
+     top:-229px;
+     left: 750px;
+     box-shadow: 2px 2px 2px black;
+
+
+}
